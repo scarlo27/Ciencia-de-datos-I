@@ -3,8 +3,8 @@ import pymysql
 
 db=MySQLDatabase(
     'sakila',
-    user = 'sbrito',
-    password = 'Sb40222538585',
+    user = 'root',
+    password = 'XXX',
     host = 'localhost'
     # ,
     # **{'driver': 'pymysql'}
